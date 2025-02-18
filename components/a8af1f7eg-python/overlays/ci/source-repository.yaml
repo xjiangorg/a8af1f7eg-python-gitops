@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: a8af1f7eg-python-repository
+spec:
+  url: https://github.com/xjiangorg/a8af1f7eg-python
